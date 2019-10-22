@@ -1,0 +1,79 @@
+# ==============================================================================
+# Project Metadata
+# Please see http://dublincore.org/documents/dcmi-terms/ for information on terms
+# and ususage. TK Please note that additional metadata can be entered and parsed
+# if following the outline below.
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+# Title and Description
+# ------------------------------------------------------------------------------
+- term: title
+  value: Language is Speaking b-ber Demo
+  term_property: title-type
+  term_property_value: main
+
+- term: description
+  value: >-
+    The contents of this demo are an excerpt from the book The Amme Talks, a
+    conversation between poet and machine. In 2003, poet Ulf Stolterfoht and a
+    chatbot named Amme (which means wet nurse in German) met in Berlin. For one
+    week, Stolterfoht interrogated Amme: not just a chatbot, actually, but a
+    steel-and-glass construction with a computer interface, which is connected to
+    a glass of milk, a robotic arm that tips over the glass, and a tube that
+    releases water, as if urinating. The excerpt included here, Language is
+    Speaking, is the introduction to the book by the translator of The Amme Talks,
+    Shane Anderson. This demo includes the functionality and design of the figures
+    directive.
+
+- term: abstract
+  value: >-
+    The contents of this demo are an excerpt from the book The Amme Talks, a
+    conversation between poet and machine. In 2003, poet Ulf Stolterfoht and a
+    chatbot named Amme (which means wet nurse in German) met in Berlin. For one
+    week, Stolterfoht interrogated Amme: not just a chatbot, actually, but a
+    steel-and-glass construction with a computer interface, which is connected to
+    a glass of milk, a robotic arm that tips over the glass, and a tube that
+    releases water, as if urinating. The excerpt included here, Language is
+    Speaking, is the introduction to the book by the translator of The Amme Talks,
+    Shane Anderson. This demo includes the functionality and design of the figures
+    directive.
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+- term: creator
+  value: 'Anderson, Shane'
+  term_property: role
+  term_property_value: aut
+
+- term: contributor
+  value: b-ber
+  term_property: role
+  term_property_value: mrk
+
+# ------------------------------------------------------------------------------
+# Publication Information
+# ------------------------------------------------------------------------------
+
+- term: language
+  value: en-US
+- term: rights
+  value: © 2019
+- term: format
+  value: epub+zip
+- term: date
+  value: 2019-10-22T00:00:00.000Z
+- term: publisher
+  value: Triple Canopy
+- term: tableOfContents
+  value: 'Language is Speaking b-ber Demo, Preface, Language is Speaking'
+
+# ------------------------------------------------------------------------------
+# Cover
+# ------------------------------------------------------------------------------
+- term: identifier
+  value: 7888f08fac9c1cdb2a2f8f8a1eae57a764f4c309
+- term: cover
+  value: __bber_cover__90c13ec0f2ff01168dbdfd102eb08a6bac536a94.jpg
