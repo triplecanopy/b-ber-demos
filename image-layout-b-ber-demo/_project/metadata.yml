@@ -1,0 +1,55 @@
+# ==============================================================================
+# Project Metadata
+# Please see http://dublincore.org/documents/dcmi-terms/ for information on terms
+# and ususage. TK Please note that additional metadata can be entered and parsed
+# if following the outline below.
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+# Title and Description
+# ------------------------------------------------------------------------------
+- term: title
+  value: Image Layout b-ber Demo
+  term_property: title-type
+  term_property_value: main
+
+- term: Image Layout b-ber Demo
+  value: Project description.
+
+- term: Image Layout b-ber Demo
+  value: Abstract.
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+- term: creator
+  value: Triple Canopy
+  term_property: role
+  term_property_value: aut
+
+- term: contributor
+  value: b-ber
+  term_property: role
+  term_property_value: mrk
+
+- term: language
+  value: en-US
+- term: rights
+  value: Triple Canopy © 2019
+- term: format
+  value: epub+zip
+- term: date
+  value: 2019-10-22T00:00:00.000Z
+- term: publisher
+  value: Publisher
+- term: tableOfContents
+  value: Chapter One; Chapter Two; etc.
+
+# ------------------------------------------------------------------------------
+# Cover
+# ------------------------------------------------------------------------------
+- term: identifier
+  value: c91054cec4d7093b5706120117ce45da51dd3bf5
+- term: cover
+  value: __bber_cover__9c812f57a1b253a884970fdcdd88c2627b760a3a.jpg
