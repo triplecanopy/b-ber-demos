@@ -1,0 +1,61 @@
+# ==============================================================================
+# Project Metadata
+# Please see http://dublincore.org/documents/dcmi-terms/ for information on terms
+# and ususage. TK Please note that additional metadata can be entered and parsed
+# if following the outline below.
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+# Title and Description
+# ------------------------------------------------------------------------------
+- term: title
+  value: 'Scoping Styles, Variables, and Mixins Example b-ber Demo'
+  term_property: title-type
+  term_property_value: main
+
+- term: description
+  value: A b-ber demo that shows how to scope styles and use variables and mixins.
+
+- term: abstract
+  value: A b-ber demo that shows how to scope styles and use variables and mixins.
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+- term: creator
+  value: Triple Canopy
+  term_property: role
+  term_property_value: aut
+
+- term: contributor
+  value: b-ber
+  term_property: role
+  term_property_value: mrk
+
+# ------------------------------------------------------------------------------
+# Publication Information
+# ------------------------------------------------------------------------------
+
+- term: language
+  value: en-US
+- term: rights
+  value: '© 2019, Triple Canopy'
+- term: format
+  value: epub+zip
+- term: date
+  value: 2019-10-22T00:00:00.000Z
+- term: publisher
+  value: Triple Canopy
+- term: tableOfContents
+  value: >-
+    Scoping Styles b-ber Demo, Preface, Scoping Styles Example (Color), Scoping
+    Styles, Variables, and Mixins Example (Typography)
+
+# ------------------------------------------------------------------------------
+# Cover
+# ------------------------------------------------------------------------------
+- term: identifier
+  value: cd2240e02217d78f9461df0101c8d4ba223de8dd
+- term: cover
+  value: __bber_cover__0f5cb1d704383d948e8528022a0e7ae76750e6cf.jpg

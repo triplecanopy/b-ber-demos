@@ -1,0 +1,19 @@
+# Table of Contents
+# "in_toc:false" removes the entry from the built-in navigation of the reader.
+# "linear:false" removes the entry from the project's contents.
+- toc:
+        in_toc: false
+        linear: false
+# Cover
+- cover:
+        in_toc: false
+        linear: false
+# Project Contents
+- scoping-styles-titlepage
+- section:
+    - preface
+    - scoping-styles-color-example
+    - scoping-styles-typography-example
+- notes:
+      in_toc: false
+      linear: false
