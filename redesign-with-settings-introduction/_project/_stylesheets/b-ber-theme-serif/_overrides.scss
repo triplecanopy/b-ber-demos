@@ -1,0 +1,76 @@
+// Importing fonts
+
+// Muli, located in _fonts directory and will be added to the EPUB
+
+@if $build == 'epub' {
+  @include font-face("Muli", "Muli-Regular", ("ttf"));
+  @include font-face("Muli", "Muli-Italic", ("ttf"), 400, italic);
+  @include font-face("Muli", "Muli-BoldItalic", ("ttf"), 800, italic);
+  @include font-face("Muli", "Muli-Black", ("ttf"), 900);
+}
+// font-family: 'Muli', sans-serif;
+
+// 'Archivo Narrow' being imported from Google fonts and will be available for the Reader
+
+@if $build == 'reader' {
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:400,400i,700,700i&display=swap');
+}
+// font-family: 'Archivo Narrow', sans-serif;
+
+// Setting the $sans varable in the _settings file to have a different font-stack than the default for the EPUB
+
+@if $build == 'epub' {
+  $sans: 'Muli', Helvetica, Arial, sans-serif !default;
+}
+
+// Setting the $sans varable in the _settings file to have a different font-stack than the default for the Reader
+
+@if $build == 'reader' {
+  $sans: 'Archivo Narrow', Helvetica, Arial, sans-serif !default;
+}
+
+
+
+// Text styling for all output formats
+
+body {
+  color:$black;
+  a {
+    text-decoration-color: $pink;
+  }
+}
+
+section {
+  h1, h2, h3, h4, h5, h6, {
+    font-weight: 700;
+    padding-bottom: one-line(0);
+    text-align: left;
+  }
+  em {
+    font-weight: 700;
+  }
+  blockquote {
+    color:$black;
+    font-weight: 400;
+  }
+}
+
+// Titlepage override
+
+section.titlepage h1 {
+  padding-bottom: one-line(0);
+}
+
+// Text Styles for the Reader
+
+@if $build == 'reader' {
+  p {
+    padding-right: two-lines(0);
+  }
+  // Removing right padding on mobile
+  @include break('mobile') {
+    p {
+      padding-right:0
+    }
+  }
+}

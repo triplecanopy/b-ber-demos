@@ -1,0 +1,112 @@
+# ==============================================================================
+# Project Metadata
+# Please see http://dublincore.org/documents/dcmi-terms/ for information on terms
+# and ususage. TK Please note that additional metadata can be entered and parsed
+# if following the outline below.
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+# Title and Description
+# ------------------------------------------------------------------------------
+- term: title
+  value: Introduction to Triple Canopy Demo
+  term_property: title-type
+  term_property_value: main
+
+- term: description
+  value: Introduction to Triple Canopy styling demo.
+- term: abstract
+  value: Introduction to Triple Canopy styling demo.
+
+  # ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+- term: creator
+  value: Triple Canopy
+  term_property: role
+  term_property_value: aut
+
+- term: contributor
+  value: b-ber
+  term_property: role
+  term_property_value: mrk
+
+# ------------------------------------------------------------------------------
+# Collaborators (editors, developers, designers, researchers, etc.)
+# ------------------------------------------------------------------------------
+
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: edt
+
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: drt
+
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: ard
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: pmn
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: pmn
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: prg
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: dsr
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: mrk
+- term: contributor
+  value: 'Last Name, First Name'
+  term_property: role
+  term_property_value: rtm
+
+# ------------------------------------------------------------------------------
+# Publication Information
+# ------------------------------------------------------------------------------
+
+- term: language
+  value: en-US
+- term: rights
+  value: © 2019
+- term: format
+  value: epub+zip
+- term: date
+  value: 2019-01-01T00:00:00.000Z
+- term: publisher
+  value: Triple Canopy
+- term: tableOfContents
+  value: 'Title Page, Introduction'
+
+# ------------------------------------------------------------------------------
+# Additional Metadata
+# ------------------------------------------------------------------------------
+
+- term: temporal
+  value: time
+- term: spatial
+  value: Project Title Location
+- term: subject
+  value: Project Title Subject
+
+# ------------------------------------------------------------------------------
+# Cover
+# ------------------------------------------------------------------------------
+- term: identifier
+  value: 670177d97d2e73c2eb10854713f71cc9b6691cd3
+- term: cover
+  value: __bber_cover__655e4421d6e206102c8752ddf4480ea791d9d7ca.jpg
