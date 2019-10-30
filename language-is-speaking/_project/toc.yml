@@ -9,7 +9,8 @@
         in_toc: false
         linear: false
 # Project Contents
-- language-is-speaking-demo
-- preface
-- language-is-speaking
-- figures-titlepage
+- language-is-speaking-demo-titlepage
+- section:
+  - language-is-speaking-demo-preface
+  - language-is-speaking-demo
+  - figures-titlepage

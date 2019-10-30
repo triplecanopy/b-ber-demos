@@ -3,7 +3,7 @@ title: Preface
 type: frontmatter
 ---
 
-::: preface:preface
+::: preface:language-is-speaking-demo-preface
 
 # Preface
 
@@ -11,4 +11,4 @@ The contents of this demo are an excerpt from the book *[The Amme Talks](https:/
 
 This demo includes the graphic design of a b-ber project using the [b-ber-theme-serif](https://github.com/triplecanopy/b-ber/wiki/serif); several of the basic [block directives](https://github.com/triplecanopy/b-ber/wiki/all-directives#block-directives); as well as the functionality and design of the [figures directive](https://github.com/triplecanopy/b-ber/wiki/Figures-and-images).
 
-::: exit:preface
+::: exit:language-is-speaking-demo-preface

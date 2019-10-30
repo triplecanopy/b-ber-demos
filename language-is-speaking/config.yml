@@ -2,7 +2,7 @@ env: development
 src: _project
 dist: project
 cache: true
-ibooks_specified_fonts: false
+ibooks_specified_fonts: true
 theme: b-ber-theme-serif
 themes_directory: ./themes
 base_url: /

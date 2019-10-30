@@ -9,9 +9,9 @@
         in_toc: false
         linear: false
 # Project Contents
-- scoping-styles-titlepage
+- scoping-styles-b-ber-demo-titlepage
 - section:
-    - preface
+    - scoping-styles-b-ber-demo-preface
     - scoping-styles-color-example
     - scoping-styles-typography-example
 - notes:
