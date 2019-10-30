@@ -5,7 +5,7 @@ type: bodymatter
 
 ::: chapter:image-layout-figures-inline
 
-When viewing this project in a two-column layout, like in the [Reader](https://github.com/triplecanopy/b-ber/wiki/Output-formats#reader) build or as an [EPUB](https://github.com/triplecanopy/b-ber/wiki/Output-formats#epub) on a desktop computer, the image following this text, *Begrüssung* by Paul Klee, will be in its own column to the right. When viewing on mobile or a tablet, the image come beneath this text.
+When viewing this project in a two-column layout, like in the [Reader](https://github.com/triplecanopy/b-ber/wiki/Output-formats#reader) build or as an [EPUB](https://github.com/triplecanopy/b-ber/wiki/Output-formats#epub) on a desktop computer, the image following this text, *Begrüssung* by Paul Klee, will be in its own column to the right. When viewing on mobile or a tablet, the image will be beneath this text.
 
 b-ber also detects the dimensions of a figure and adds a class, in this case **figure__inline--landscape** so it will be positioned properly in its column irrespective of device or OS.
 
