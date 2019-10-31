@@ -1,7 +1,7 @@
 env: development
 src: _project
 dist: project
-ibooks_specified_fonts: false
+ibooks_specified_fonts: true
 theme: b-ber-theme-serif
 themes_directory: ./themes
 base_url: /
@@ -9,16 +9,16 @@ base_path: /
 reader_url: http://localhost:4000/
 remote_url: http://localhost:4000/
 builds:
-  - label: Download as Epub
-    title: b-ber test december thirteen
+  - label: Download as EPUB
+    title: b-ber All Directives Demo
     url: >-
       https://s3.amazonaws.com/b-ber-projects-staging/b-ber-test-december-thirteen/5c123aa0977b21000477431b.epub
   - label: Download as Mobi
-    title: b-ber test december thirteen
+    title: b-ber All Directives Demo
     url: >-
       https://s3.amazonaws.com/b-ber-projects-staging/b-ber-test-december-thirteen/5c123aa0977b21000477431b.mobi
   - label: Download as Pdf
-    title: b-ber test december thirteen
+    title: b-ber All Directives Demo
     url: >-
       https://s3.amazonaws.com/b-ber-projects-staging/b-ber-test-december-thirteen/5c123aa0977b21000477431b.pdf
 ui_options:
