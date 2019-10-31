@@ -1,0 +1,66 @@
+- cover
+- frontmatter
+- section:
+    - title-pages
+    - section:
+        - half-title-page
+        - title-page-default
+        - title-page-translators
+        - dedication
+    - epigraph-styles
+    - section:
+        - epigraph
+        - epigraph-multiple
+        - epigraph-image
+    - foreword
+    - preface
+    - acknowledgements
+- bodymatter
+- section:
+    - prologue
+    - introduction
+    - chapter
+    - chapter-with-pullquote
+    - epilogue
+    - conclusion
+    - text-styles
+    - section:
+        - header-1
+        - header-2
+        - header-3
+        - header-4
+        - header-5
+        - header-6
+        - text-styles-quotes-lists-etc
+        - footnotes
+    - media-title-page
+    - section:
+        - images
+        - fullbleed-title-page
+        - fullbleed
+        - gallery-title-page
+        - gallery-3x-default
+        - video
+        - video-inline
+        - audio
+        - audio-inline
+    - misc-directives
+    - section:
+        - dialogue
+        - code-samples
+        - spread
+- backmatter
+- section:
+    - afterword
+    - appendix
+    - figures-titlepage
+    - series-page
+    - credits
+    - contributors
+    - colophon
+- toc:
+    in_toc: false
+    linear: false
+- notes:
+    in_toc: false
+    linear: false

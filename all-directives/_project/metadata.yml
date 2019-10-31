@@ -1,0 +1,58 @@
+--- # ------------------------------------------------------------------------------
+# ==============================================================================
+# Project Metadata
+# Please see http://dublincore.org/documents/dcmi-terms/ for information on terms
+# and ususage. TK Please note that additional metadata can be entered and parsed
+# if following the outline below.
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+# Title and Description
+- term: title
+  value: b-ber All Directives Demo
+  term_property: title-type
+  term_property_value: main
+
+- term: description
+  value: A demo project that contains all of b-ber's directives.
+
+- term: abstract
+  value: A demo project that contains all of b-ber's directives.
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+- term: creator
+  value: 'Triple Canopy'
+  term_property: role
+  term_property_value: aut
+
+- term: contributor
+  value: b-ber
+  term_property: role
+  term_property_value: mrk
+# ------------------------------------------------------------------------------
+# Publication Information
+# ------------------------------------------------------------------------------
+
+- term: language
+  value: en-US
+- term: rights
+  value: Triple Canopy © 2019
+- term: format
+  value: EPUB, Mobi, PDF
+- term: date
+  value: 2019-10-10T00:00:00.000Z
+- term: publisher
+  value: Triple Canopy
+- term: tableOfContents
+  value: Frontmatter; Title Pages; Half Title Page; Title Page; Title Page with Translators; Dedication; Epigraph Styles; Epigraph; Epigraph Multiple; Epigraph Images; Foreword; Preface; Acknowledgements; Bodymatter; Prologue; Introduction; Chapter Example; Chapter Example With Pullquote; Epilogue; Conclusion; Text Styles; Header One; Header Two; Header Three; Header Four; Header Five; Header Six; Blockquotes, List, HRs, Tables; Footnotes; Media Title Page; Images; Fullbleed Image Title Page; Fullbleed; Gallery Title Page; Image Gallery; Video; Video Inline; Audio; Audio Inline; Misc Directives; Dialogue Example; Code Samples; Spread; Backmatter; Afterword; Appendix; Figures; Series Page; Credits; Contributors; Colphon
+
+# ------------------------------------------------------------------------------
+# Cover
+# ------------------------------------------------------------------------------
+- term: identifier
+  value: a16c595e6b08d4d86bf3854b982cd8d6acf74c5a
+- term: cover
+  value: b-ber-all-directives-cover.png
