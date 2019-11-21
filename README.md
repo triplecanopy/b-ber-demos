@@ -1,6 +1,6 @@
 # b-ber Demos
 
-This repository contains b-ber projects that demonstrate how to use [b-ber](https://github.com/triplecanopy/b-ber/). Additional demos will be added for different use-cases on an ongoing basis. For more information on how to use b-ber, please visit the [b-ber wiki](https://github.com/triplecanopy/b-ber/wiki).
+This repository contains projects that demonstrate how to use [b-ber](https://github.com/triplecanopy/b-ber/). Additional demos will be added for different use-cases on an ongoing basis. For more information on how to use b-ber, please visit the [b-ber wiki](https://github.com/triplecanopy/b-ber/wiki).
 
 Below please find descriptions of the included demos.
 
