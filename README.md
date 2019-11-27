@@ -1,4 +1,7 @@
-# b-ber Demos
+<h1>
+    <img alt="b-ber logo" src="https://user-images.githubusercontent.com/4243474/38133122-2af4f794-340e-11e8-8ac9-9b46afecfd9b.png" width="100" alt="b-ber">
+  demos
+</h1>
 
 This repository contains projects that demonstrate how to use [b-ber](https://github.com/triplecanopy/b-ber/). To get started, clone this repository and [build the project](https://github.com/triplecanopy/b-ber/wiki/Building-a-project) whose functionality you would like to review.  
 
