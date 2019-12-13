@@ -24,7 +24,7 @@
 # ------------------------------------------------------------------------------
 
 - term: creator
-  value: 'Triple Canopy'
+  value: Triple Canopy
   term_property: role
   term_property_value: aut
 
@@ -41,13 +41,23 @@
 - term: rights
   value: Triple Canopy © 2019
 - term: format
-  value: EPUB, Mobi, PDF
+  value: 'EPUB, Mobi, PDF'
 - term: date
   value: 2019-10-10T00:00:00.000Z
 - term: publisher
   value: Triple Canopy
 - term: tableOfContents
-  value: Frontmatter; Title Pages; Half Title Page; Title Page; Title Page with Translators; Dedication; Epigraph Styles; Epigraph; Epigraph Multiple; Epigraph Images; Foreword; Preface; Acknowledgements; Bodymatter; Prologue; Introduction; Chapter Example; Chapter Example With Pullquote; Epilogue; Conclusion; Text Styles; Header One; Header Two; Header Three; Header Four; Header Five; Header Six; Blockquotes, List, HRs, Tables; Footnotes; Media Title Page; Images; Fullbleed Image Title Page; Fullbleed; Gallery Title Page; Image Gallery; Video; Video Inline; Audio; Audio Inline; Misc Directives; Dialogue Example; Code Samples; Spread; Backmatter; Afterword; Appendix; Figures; Series Page; Credits; Contributors; Colphon
+  value: >-
+    Frontmatter; Title Pages; Half Title Page; Title Page; Title Page with
+    Translators; Dedication; Epigraph Styles; Epigraph; Epigraph Multiple;
+    Epigraph Images; Foreword; Preface; Acknowledgements; Bodymatter; Prologue;
+    Introduction; Chapter Example; Chapter Example With Pullquote; Epilogue;
+    Conclusion; Text Styles; Header One; Header Two; Header Three; Header Four;
+    Header Five; Header Six; Blockquotes, List, HRs, Tables; Footnotes; Media
+    Title Page; Images; Fullbleed Image Title Page; Fullbleed; Gallery Title Page;
+    Image Gallery; Video; Video Inline; Audio; Audio Inline; Misc Directives;
+    Dialogue Example; Code Samples; Spread; Backmatter; Afterword; Appendix;
+    Figures; Series Page; Credits; Contributors; Colphon
 
 # ------------------------------------------------------------------------------
 # Cover
@@ -55,4 +65,4 @@
 - term: identifier
   value: a16c595e6b08d4d86bf3854b982cd8d6acf74c5a
 - term: cover
-  value: b-ber-all-directives-cover.png
+  value: __bber_cover__700a016b1d49d69adeb5448889c4b183e6ccabd3.jpg
