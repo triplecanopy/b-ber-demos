@@ -3,7 +3,7 @@ src: _project
 dist: project
 cache: true
 ibooks_specified_fonts: true
-theme: b-ber-theme-serif
+theme: b-ber-theme-sans
 themes_directory: ./themes
 base_url: /
 base_path: /
