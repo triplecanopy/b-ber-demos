@@ -32,53 +32,6 @@
   term_property: role
   term_property_value: mrk
 
-# ------------------------------------------------------------------------------
-# Collaborators (editors, developers, designers, researchers, etc.)
-# ------------------------------------------------------------------------------
-
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: edt
-
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: drt
-
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: ard
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: pmn
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: pmn
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: prg
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: dsr
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: mrk
-- term: contributor
-  value: 'Last Name, First Name'
-  term_property: role
-  term_property_value: rtm
-
-# ------------------------------------------------------------------------------
-# Publication Information
-# ------------------------------------------------------------------------------
-
 - term: language
   value: en-US
 - term: rights
@@ -91,17 +44,6 @@
   value: Triple Canopy
 - term: tableOfContents
   value: 'Title Page, Introduction'
-
-# ------------------------------------------------------------------------------
-# Additional Metadata
-# ------------------------------------------------------------------------------
-
-- term: temporal
-  value: time
-- term: spatial
-  value: Project Title Location
-- term: subject
-  value: Project Title Subject
 
 # ------------------------------------------------------------------------------
 # Cover
