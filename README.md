@@ -21,13 +21,13 @@ This demo includes examples on how to include [figures and images](https://githu
 
 ## [Language is Speaking b-ber Demo](https://github.com/triplecanopy/b-ber-demos/tree/master/language-is-speaking)
 
-The contents of this demo are an excerpt from the book *[The Amme Talks](https://www.canopycanopycanopy.com/contents/the-amme-talks)*, a conversation between poet and machine, published by Triple Canopy. The excerpt included here, "Language is Speaking," is the introduction to the book by the translator of *The Amme Talks*, Shane Anderson.
+The contents of this demo is an excerpt from the book *[The Amme Talks](https://www.canopycanopycanopy.com/contents/the-amme-talks)*, a conversation between poet and machine, published by Triple Canopy. The excerpt included here, "Language is Speaking," is the introduction to the book by the translator of *The Amme Talks*, Shane Anderson.
 
 This demo includes the graphic design of a b-ber project using the [b-ber-theme-serif](https://github.com/triplecanopy/b-ber/wiki/serif); several of the basic [block directives](https://github.com/triplecanopy/b-ber/wiki/all-directives#block-directives); as well as the functionality and design of the [figures directive](https://github.com/triplecanopy/b-ber/wiki/Figures-and-images).
 
 ## [Re-designinig b-ber projects using `_settings` and `_overrides` Demo](https://github.com/triplecanopy/b-ber-demos/tree/master/redesign-with-settings-introduction)
 
-This demo includes an example on how to control the design of a b-ber project using the [theme settings file](https://github.com/triplecanopy/b-ber/wiki/Themes#using-_settingsscss), the [theme overrides file](https://github.com/triplecanopy/b-ber/wiki/Themes#using-the-_overridesscss-file), as well as how to include [fonts](https://github.com/triplecanopy/b-ber/wiki/Adding-Fonts) in the project or remotely. It also shows how to control the design of the project for [specific builds](https://github.com/triplecanopy/b-ber/wiki/Adding-Custom-Styles#customizing-styles-for-specific-builds). The `_settings.scss` and `overrides.scss` files found in the `_project/stylesheets/b-ber-theme-serif` folder have additional inline comments.
+This demo includes an example on how to control the design of a b-ber project using the [theme settings file](https://github.com/triplecanopy/b-ber/wiki/Themes#using-_settingsscss), the [theme overrides file](https://github.com/triplecanopy/b-ber/wiki/Themes#using-the-_overridesscss-file), as well as how to include [fonts](https://github.com/triplecanopy/b-ber/wiki/Adding-Fonts) in the project directory or hosted remotely. It also shows how to control the design of the project for [specific builds](https://github.com/triplecanopy/b-ber/wiki/Adding-Custom-Styles#customizing-styles-for-specific-builds). The `_settings.scss` and `overrides.scss` files found in the `_project/stylesheets/b-ber-theme-serif` folder have additional inline comments.
 
 ## [Scoping Styles b-ber Demo](https://github.com/triplecanopy/b-ber-demos/tree/master/scoping-styles-variables-mixins)
 
